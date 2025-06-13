@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Loja Agendamento</string>
+    <string name="catalogo">catálogo</string>
+    <string name="mais_vendidos">Mais vendidos</string>
+    <string name="fabricacao">Fabricação</string>
+    <string name="cozinha">Cozinha</string>
+    <string name="sala">Sala</string>
+    <string name="quarto">Quarto</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="sacola">Sacola</string>
+    <string name="agendamento">Agendamento</string>
+    <string name="nome">Nome:</string>
+    <string name="data">Data:</string>
+    <string name="horario">Horário:</string>
+    <string name="agendar">Agendar</string>
+    <string name="adicionar_sacola">Adicionar à Sacola</string>
+    <string name="continuar_comprando">Continuar Comprando</string>
+    <string name="voltar">Voltar</string>
+</resources>
